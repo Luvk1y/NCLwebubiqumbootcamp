@@ -1,0 +1,144 @@
+.container { 
+    margin: 10px 10px 10px 10px;
+    font-family: 'Times New Roman', Times, serif;
+    height: 200vh;
+}
+
+.content table{
+    margin: 0 auto;
+}
+
+.newcontent{
+    margin: 2rem;
+    text-align: center;
+}
+
+.content>p{
+    text-align: center;
+}
+.content5>p,.content5>h1{
+    margin-left: 20%;
+    text-align: justify;
+}
+
+table,th,td{
+    border: 2px black solid;
+    border-collapse: collapse;
+    padding: 0.5rem;
+}
+
+.lista li{
+    border: 2px black solid;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+    background-color: blue;
+}
+
+.title h1{
+    margin: 0;
+}
+
+.adicionalinfo>h4,.adicionalinfo>p{
+    display: inline;
+}
+.questions>h4,.questions>p{
+    display: inline;
+}
+.phone>h4,.phone>p{
+    display: inline;
+}
+.mail>h4,.mail>p{
+    display: inline;
+}
+
+.info{
+    padding-left: 25%;
+}
+
+.info h1{
+    margin: 0px;
+}
+
+ul{
+    margin-top: -25px;
+    position: absolute;
+    padding-left: 80rem;
+}
+
+a:active{
+    background-color: green;
+}
+a:visited{
+    background-color: green;
+}
+
+.lista>li,h2{
+    display: inline-block;
+    margin: 5px 5px 5px 5px;
+}
+
+li>a{
+    color: white;
+}
+
+.logo img{
+    position: absolute;
+    top: 39rem;
+    height: 20vh;
+}
+
+.imagen {
+    height: 55vh;
+    margin-bottom: 0px;
+   background-image: url("/assets/img/image1.png");
+   background-size: cover;
+   background-repeat: no-repeat;
+}
+
+.imagen2 {
+    height: 55vh;
+    margin-bottom: 0px;
+   background-image: url("/assets/img/image2.png");
+   background-size: cover;
+   background-repeat: no-repeat;
+}
+
+.imagen3 {
+    height: 55vh;
+    margin-bottom: 0px;
+   background-image: url("/assets/img/image3.png");
+   background-size: cover;
+   background-repeat: no-repeat;
+}
+
+.subtitle p{
+    font-size: 4vh;
+    margin: 0px;
+    text-align: center;
+    background-color: rgb(70, 116, 241);
+}
+
+.contact {
+    margin-top: 3%;
+    padding-left: 25%;
+}
+
+.content section {
+    font-size: 2.5vh;
+    padding-left: 30rem;
+    background-color:rgb(255, 255, 255)
+}
+
+span {
+    padding-left: 1.5em;
+    text-indent:-1.5em;
+}
+
+.explicacion{
+    list-style-type: upper-latin;
+}
+
+.safetylvl{
+    margin-left: 20%;
+    margin-right: 25%;
+}
