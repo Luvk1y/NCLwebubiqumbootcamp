@@ -59,10 +59,10 @@ table,th,td{
     margin: 0px;
 }
 
-ul{
+.lista{
     margin-top: -25px;
     position: absolute;
-    padding-left: 80rem;
+    padding-left: 70rem;
 }
 
 a:active{
@@ -141,4 +141,58 @@ span {
 .safetylvl{
     margin-left: 20%;
     margin-right: 25%;
+}
+.registro{
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+}
+input{
+border-top-style: hidden;
+  border-right-style: hidden;
+  border-left-style: hidden;
+  border-bottom-style: groove;
+}
+
+.nombre{
+    display: inline-flex;
+    list-style: none;
+    padding: 0px;
+}
+
+.data{
+    list-style: none;
+    margin-bottom: 2em;
+    padding: 0px;
+}
+
+.gender{
+    display: flex;
+    flex-direction: row;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+.gender legend{
+    float: left;
+}
+
+.membership{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+.membership legend{
+    padding-bottom: 1em;
+}
+
+.textregis p{
+    width: 35em;
+}
+
+input[type=submit]{
+    margin-left: 30em;
+    margin-top: 3em;
+    border-style: groove;
 }
