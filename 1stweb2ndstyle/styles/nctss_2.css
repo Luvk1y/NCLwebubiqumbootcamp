@@ -4,7 +4,7 @@
     height: 200vh;
 }
 
-.content table{
+.content2 table{
     margin: 0 auto;
 }
 
@@ -13,7 +13,7 @@
     text-align: center;
 }
 
-.content>p{
+.content2>p{
     text-align: center;
 }
 .content5>p,.content5>h1{
